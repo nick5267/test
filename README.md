@@ -6,6 +6,23 @@
 
 <p align="center">Exploring Ideas, Crafting Solutions: My Journey in Code 🚀</p>
 
+# My Awesome Dinosaur Game
+
+Welcome to my dinosaur game! Try to help the dinosaur avoid the obstacles and achieve a high score.
+
+<iframe src="https://chromedino.com" width="800" height="400" frameborder="0"></iframe>
+
+## How to Play
+
+- Use the spacebar to make the dinosaur jump.
+- Avoid the cacti and other obstacles to stay alive.
+- Have fun and aim for a high score!
+
+Enjoy the game and have a great time!
+
+[Click here to play the game in full screen](https://chromedino.com)
+
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
